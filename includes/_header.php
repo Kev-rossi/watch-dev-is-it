@@ -15,7 +15,7 @@
             </g>
         </svg>
     </a>
-    
+
     <nav class="MenuNav">
         <ul>
             <li>Acceuil</li>
