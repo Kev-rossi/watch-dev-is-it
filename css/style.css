@@ -17,16 +17,38 @@ header{
     display:flex;
     justify-content: space-between;
     background-color: #131626;
+    padding: 2rem;
 }
 
-.menuNav{
+.menuNav ul, .navFooter{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+   
+}
+
+.menuNav ul, .navFooter {
+    list-style: none;
+}
+
+.menuNav ul > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+/* SECTIONS */
+
+section{
+    padding: 2rem;
 }
 
 /* FOOTER STYLE */
 
 footer {
     background-color: #131626;
+    padding: 2rem;
 }
 
+@media screen and (min-width: 700px) {
+    
+}

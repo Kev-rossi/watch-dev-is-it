@@ -16,42 +16,7 @@
             <h1>Welcome</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>
                 tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#"><button>Start</button></a>
-        </section>
-        
-        <section class="articles">
-            <article>
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <button>Lire l'article</button>
-                </a>
-            </article>
-            <article>
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <button>Lire l'article</button>
-                </a>
-            </article>
-            <article>
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <button>Lire l'article</button>
-                </a>
-            </article>
-            <article>
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <button>Lire l'article</button>
-                </a>
-            </article>
+            <a href="#"><button>Start</button></a> 
         </section>
     </main>
     <!-- Start Footer -->
