@@ -1,0 +1,26 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    margin: 0;
+    background-color: #1F1D2B;
+    color: white;
+}
+
+/* HEADER STYLE */
+
+.imgLogo{
+    fill: #FFFFFF;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color: #131626;
+}
+
+.menuNav{
+    display: flex;
+    justify-content: space-between;
+}
+
