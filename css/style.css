@@ -18,17 +18,6 @@ header{
     padding: 2rem;
 }
 
-<<<<<<< HEAD
-.menuNav ul, .navFooter ul{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    align-items: center;
-    list-style: none;
-   
-}
-
-=======
 .menuNav ul, .navFooter{
     display: flex;
     justify-content: space-between;
@@ -39,20 +28,15 @@ header{
 .menuNav ul, .navFooter {
     list-style: none;
 }
->>>>>>> ddc39c8669b0b12a33352f0fecefc50853934236
-
 .menuNav ul > li > a {
     text-decoration: none;
     color: white;
-<<<<<<< HEAD
-=======
 }
 
 /* SECTIONS */
 
 section{
     padding: 2rem;
->>>>>>> ddc39c8669b0b12a33352f0fecefc50853934236
 }
 
 /* FOOTER STYLE */
