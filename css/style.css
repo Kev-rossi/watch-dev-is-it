@@ -14,14 +14,22 @@ body{
 }
 
 header{
-    display:flex;
-    justify-content: space-between;
     background-color: #131626;
 }
 
-.menuNav{
+.menuNav ul, .navFooter ul{
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+   
+}
+
+
+.menuNav ul > li > a {
+    text-decoration: none;
+    color: white;
 }
 
 /* FOOTER STYLE */
@@ -30,3 +38,6 @@ footer {
     background-color: #131626;
 }
 
+@media screen and (min-width: 700px) {
+    
+}
