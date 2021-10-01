@@ -15,8 +15,10 @@ body{
 
 header{
     background-color: #131626;
+    padding: 2rem;
 }
 
+<<<<<<< HEAD
 .menuNav ul, .navFooter ul{
     display: flex;
     justify-content: space-between;
@@ -26,16 +28,38 @@ header{
    
 }
 
+=======
+.menuNav ul, .navFooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.menuNav ul, .navFooter {
+    list-style: none;
+}
+>>>>>>> ddc39c8669b0b12a33352f0fecefc50853934236
 
 .menuNav ul > li > a {
     text-decoration: none;
     color: white;
+<<<<<<< HEAD
+=======
+}
+
+/* SECTIONS */
+
+section{
+    padding: 2rem;
+>>>>>>> ddc39c8669b0b12a33352f0fecefc50853934236
 }
 
 /* FOOTER STYLE */
 
 footer {
     background-color: #131626;
+    padding: 2rem;
 }
 
 @media screen and (min-width: 700px) {

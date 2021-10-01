@@ -16,12 +16,12 @@
         </svg>
     </a>
 
-    <nav class="MenuNav">
+    <nav class="menuNav">
         <ul>
-            <li>Acceuil</li>
-            <li>Articles</li>
-            <li>Équipe</li>
-            <li>Contribuer</li>
+            <li><a href="#">Acceuil</a></li>
+            <li><a href="/blog">Articles</a></li>
+            <li><a href="/team">Équipe</a></li>
+            <li><a href="#">Contribuer</a></li>
         </ul>
     </nav>
-</header>
+</header> 
