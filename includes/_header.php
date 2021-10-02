@@ -15,7 +15,12 @@
             </g>
         </svg>
     </a>
-
+    <a class="hamburger">
+        <span class="hamburger-span"></span>
+        <span class="hamburger-span"></span>
+        <span class="hamburger-span"></span>
+        <span class="hamburger-span"></span>
+    </a>
     <nav class="menuNav">
         <ul>
             <li><a href="#">Acceuil</a></li>
@@ -24,4 +29,4 @@
             <li><a href="#">Contribuer</a></li>
         </ul>
     </nav>
-</header> 
+</header>
