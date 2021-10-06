@@ -19,4 +19,4 @@
         </div>
     </div>
 </footer>
-<script type="text/javascript" src="js/menu.js" id="menu-js"></script>
+<script type="text/javascript" src="/js/menu.js" id="menu-js"></script>
