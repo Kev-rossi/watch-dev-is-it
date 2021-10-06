@@ -17,25 +17,27 @@
         <h1>Notre équipe de Rédacteurs</h1>
         <section class="redacteur">
             <div >
-                <figure src="" alt="rédacteur, Kévin"></figure>
+                <figure alt="rédacteur, Kévin"></figure>
                 <h2>Kévin</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>
                 tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>  
             <div >
-                <figure src="" alt="rédacteur, Océane"></figure>
+                <figure alt="rédacteur, Océane"></figure>
                 <h2>Océane</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>
                 tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>  
             <div >
-                <figure src="" alt="rédacteur, Kelly"></figure>
+                <figure alt="rédacteur, Kelly">
+                    <img src="./images-team/kelly.jpg" alt="rédacteur, Kelly">
+                </figure>
                 <h2>Kelly</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>
                 tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>  
             <div >
-                <figure src="" alt="rédacteur, Julien"></figure>
+                <figure alt="rédacteur, Julien"></figure>
                 <h2>Julien</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>
                 tempor incididunt ut labore et dolore magna aliqua.</p>
