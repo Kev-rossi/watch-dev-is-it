@@ -6,32 +6,7 @@ body {
     margin: 0;
     background-color: #1F1D2B;
     color: white;
-}
-
-/* HEADER STYLE */
-
-.imgLogo {
-    fill: #FFFFFF;
-}
-
-header {
-    background-color: #131626;
-    padding: 2rem;
-}
-
-.menuNav ul, .navFooter {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.menuNav ul, .navFooter {
-    list-style: none;
-}
-
-.menuNav ul>li>a {
-    text-decoration: none;
-    color: white;
+    font-family: 'Roboto', sans-serif;
 }
 
 /*** SECTIONS ***/
@@ -44,6 +19,7 @@ section {
 
 .articles {
     background-color: #131626;
+    margin-bottom: 2rem;
 }
 
 .articles article {
@@ -66,8 +42,29 @@ article a {
     text-decoration: none;
 }
 
+article span{
+    background-color: yellow;
+    padding: .5rem;
+    color: black;
+    font-size: .8rem
+}
+
+article h1, article h2{
+    color: #131626;
+    font-size: 2rem;
+}
+article.black h2, article.gray h2, article p{
+    color: white;
+}
+
+article.white p{
+    color: #131626;;
+}
+
 article button {
     pointer-events: none;
+    padding: .5rem .7rem;
+    border: 1px solid black;
 }
 
 /* FOOTER STYLE */
@@ -78,9 +75,9 @@ footer {
 }
 
 @media screen and (min-width: 700px) {
-    .header-container, section, .footer-container {
-        max-width: 1150px;
-        margin: 0 auto;
+    main, footer{
+        position: relative;
+        top: 10rem;
     }
     .articles {
         display: grid;
