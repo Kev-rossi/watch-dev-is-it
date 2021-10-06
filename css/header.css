@@ -1,11 +1,21 @@
-header{
+header .header-container{
     display: flex;
+    justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    position: fixed;
+    background-color: #131626;
+    width: 100%;
+    padding: 2rem;
+    z-index: 10;
 }
 
 .menuNav{
     display: none;
+}
+
+li{
+    margin-right: 2em;
 }
 
 .hamburger-opened .menuNav{

@@ -24,7 +24,7 @@
         </a>
         <nav class="menuNav">
             <ul>
-                <li><a href="#">Acceuil</a></li>
+                <li><a href="#">Accueil</a></li>
                 <li><a href="/blog">Articles</a></li>
                 <li><a href="/team">Équipe</a></li>
                 <li><a href="#">Contribuer</a></li>
