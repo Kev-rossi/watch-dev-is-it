@@ -1,21 +1,18 @@
-header .header-container{
+.header-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    position: fixed;
     background-color: #131626;
-    width: 100%;
     padding: 2rem;
-    z-index: 10;
 }
 
 .menuNav{
     display: none;
 }
 
-li{
-    margin-right: 2em;
+.imgLogo{
+    fill: white;
 }
 
 .hamburger-opened .menuNav{
@@ -70,6 +67,13 @@ li{
 }
 
 @media screen and (min-width: 700px) {
+    .header-container{
+        justify-content: space-between;
+        align-items: center;
+        position: fixed;
+        width: 100%;
+        z-index: 10;
+    }
     .hamburger{
         display: none;
     }
