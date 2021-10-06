@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Watch Dev Is It?</title>
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <?php include("../includes/_head.php"); ?>
 </head>
 <body>
     <?php /* Start Header */ ?>
@@ -16,42 +16,7 @@
             <h1>Welcome</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>
                 tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#"><button>Start</button></a>
-        </section>
-        
-        <section class="articles">
-            <article>
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <button>Lire l'article</button>
-                </a>
-            </article>
-            <article>
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <button>Lire l'article</button>
-                </a>
-            </article>
-            <article>
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <button>Lire l'article</button>
-                </a>
-            </article>
-            <article>
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <button>Lire l'article</button>
-                </a>
-            </article>
+            <a href="#"><button>Start</button></a> 
         </section>
     </main>
     <!-- Start Footer -->
