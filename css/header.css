@@ -1,14 +1,21 @@
+header{
+    background-color: #131626;
+    padding: 2rem;
+}
+
 .header-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    background-color: #131626;
-    padding: 2rem;
 }
 
 .menuNav{
     display: none;
+}
+
+.menuNav ul, .navFooter{
+    list-style: none;
 }
 
 .imgLogo{
@@ -67,17 +74,28 @@
 }
 
 @media screen and (min-width: 700px) {
-    .header-container{
-        justify-content: space-between;
-        align-items: center;
+    header{
         position: fixed;
         width: 100%;
         z-index: 10;
+        top: 0;
+    }
+    .header-container, section, .footer-container {
+        max-width: 1150px;
+        margin: 0 auto;
+    }
+    .header-container{
+        justify-content: space-between;
+        align-items: center;
     }
     .hamburger{
         display: none;
     }
     .menuNav{
         display: block;
+    }
+    .menuNav ul, .navFooter{
+        display: flex;
+        justify-content: space-between;
     }
 }
