@@ -19,18 +19,18 @@
                     <span class="article-date">02/10/21</span>
                 </div>
                 <div class="article_header-author">
-                    <img src="" alt="Auteur">
+                    <img src="/images/kevin.jpg" alt="Kevin Rossi">
                     <span>Kevin Rossi</span>
                 </div>
             </div>
             <div class="article_content">
                 <img src="./images/code-gbcc1365b7_1920.jpg" alt="Un éditeur de code moerne pour votre terminal">
-                <p>A la recherche d’un éditeur de texte ? 
-                   Micro est un petit outil qui sait se rendre indispensable. Il est facile à utiliser intuitif et sait également tirer partie des capacités des terminaux modernes. 
-                   Pour l’installer, il y a deux solutions : soit l’installer avec un gestionnaire de paquet soit en téléchargeant les binaire ici : https://github.com/zyedidia/micro/releases?source=korben.info pour Linux, macOS, Windows et même BSD. 
-                   On peut également l’installer en appelant le script d’install :  
-                   curl https://getmic.ro | bash
-                   Micro dispose de nombreux raccourcis clavier que vous pouvez personnaliser ainsi que de nombreuses commandes pour faire des recherches, ajouter des plugins, lancer des commandes, etc.. 
+                <p>A la recherche d’un éditeur de texte ?</p>
+                <p>Micro est un petit outil qui sait se rendre indispensable. Il est facile à utiliser intuitif et sait également tirer partie des capacités des terminaux modernes.</p>
+                <p>Pour l’installer, il y a deux solutions : soit l’installer avec un gestionnaire de paquet soit en téléchargeant les binaire ici : https://github.com/zyedidia/micro/releases?source=korben.info pour Linux, macOS, Windows et même BSD.</p>
+                <p>On peut également l’installer en appelant le script d’install :  
+                   curl https://getmic.ro | bash </p>
+                <p>Micro dispose de nombreux raccourcis clavier que vous pouvez personnaliser ainsi que de nombreuses commandes pour faire des recherches, ajouter des plugins, lancer des commandes, etc.. 
                 </p>
 </div>  
         </section>

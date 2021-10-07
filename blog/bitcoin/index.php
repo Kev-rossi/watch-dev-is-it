@@ -18,15 +18,17 @@
                     <span class="article-date">29/09/21</span>
                 </div>
                 <div class="article_header-author">
-                    <img src="/images/" alt="Auteur">
-                    <span>Oceane Salle</span>
+                    <img src="/images/oceane.jpg" alt="Oceane Salle">
+                    <span>Océane Salle</span>
                 </div>
             </div>
             <div class="article_content">
-                <img src="./images/bitcoin-g35fecb608_1280.jpg" alt="Guichets automatiques de bitcoin">
-                <p>L'utilisation des crypto-monnaies se propage de plus en plus rapidement dans le quotidien des Américains. A la même époque l’année dernière, il y avait environ 6 000 distributeurs automatiques de crypto-monnaies aux États-Unis. Il en existe plus de 26 000 aujourd'hui et des centaines d'autres sont installées chaque semaine.
+                <img src="/images/bitcoin-g35fecb608_1280.jpg" alt="Guichets automatiques de bitcoin">
+                <p>L'utilisation des crypto-monnaies se propage de plus en plus rapidement dans le quotidien des Américains.</p> 
+                <p>A la même époque l’année dernière, il y avait environ 6 000 distributeurs automatiques de crypto-monnaies aux États-Unis.</p>
+                <p>Il en existe plus de 26 000 aujourd'hui et des centaines d'autres sont installées chaque semaine.</p>
                    Seulement l'Amérique et le reste du monde font face aujourd'hui à un dilemme concernant l’autorisation ou l'interdiction d’utiliser des crypto-monnaies. En effet, leurs utilisations, notamment l'extraction, participent grandement à l'augmentation des émissions de gaz à effet de serre dans l'atmosphère. Cela a un impact considérable sur le climat et pourrait donc justifier leur interdiction.
-                   Selon une enquête de l'Université de Chicago, 13 % des adultes américains ont acheté ou vendu des crypto-monnaies au cours de l'année écoulée. Cela représente près de 33 millions de personnes.
+                <p>Selon une enquête de l'Université de Chicago, 13 % des adultes américains ont acheté ou vendu des crypto-monnaies au cours de l'année écoulée. Cela représente près de 33 millions de personnes.
                 </p>
             </div>  
         </section>
@@ -36,3 +38,4 @@
 </body>
 </html>    
 </html>    
+

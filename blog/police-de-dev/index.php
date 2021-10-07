@@ -19,15 +19,15 @@
                     <span class="article-date">03/10/21</span>
                 </div>
                 <div class="article_header-author">
-                    <img src="" alt="Auteur">
+                    <img src="/images/kelly.jpg" alt="Kelly Olida">
                     <span>Kelly Olida</span>
                 </div>
             </div>
             <div class="article_content">
                 <img src="./images/code-gbcc1365b7_1920.jpg" alt="feuille de code">
-                <p>Toutes les polices de caractères ne sont pas forcément adaptées à tous nos usages de nerds. Parfois notre police ne se rend pas bien dans nos terminaux. 
-                   Il existe un projet collaboratif qui s’appelle Nerd Fonts et qui vise à  patcher les polices de caractères les plus appréciées des développeurs et autres informaticiens en y ajouter un grand nombre de glyphs (icones) en provenance de projets que vous connaissez tous :
-                   - Powerline Extra Symbols
+                <p>Toutes les polices de caractères ne sont pas forcément adaptées à tous nos usages de nerds. Parfois notre police ne se rend pas bien dans nos terminaux. </p>
+                <p>Il existe un projet collaboratif qui s’appelle Nerd Fonts et qui vise à patcher les polices de caractères les plus appréciées des développeurs et autres informaticiens en y ajouter un grand nombre de glyphs (icones) en provenance de projets que vous connaissez tous :</p>
+                <p>- Powerline Extra Symbols
                    - Font Awesome
                    - Font Awesome Extension
                    - Material Design Icons
