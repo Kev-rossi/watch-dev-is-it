@@ -1,7 +1,7 @@
 <header>
     <div class="header-container">
         <a href="/">
-            <svg class="imgLogo" width="200" height="64" viewBox="0 0 28 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+            <svg class="imgLogo" width="100" height="32" viewBox="0 0 28 9" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
                 <g transform="matrix(1,0,0,1,-687.666,-558.186)">
                     <path d="M699.343,558.186C700.265,558.186 701.019,558.536 701.605,559.235C702.191,559.934 702.384,560.792 702.185,561.807L701.898,563.219C701.671,564.344 701.222,565.209 700.55,565.812C699.878,566.416 699.052,566.717 698.072,566.717L695.089,566.717L695.352,565.401L697.041,565.401L697.04,565.405L698.248,565.405C698.751,565.405 699.169,565.21 699.501,564.819C699.833,564.428 700.068,563.895 700.205,563.219L700.492,561.795C700.628,561.104 700.556,560.549 700.275,560.131C699.994,559.713 699.566,559.504 698.992,559.504L696.788,559.504L694.088,566.717L692.523,566.717L691.996,561.286L691.961,561.28L689.699,566.717L688.135,566.717L687.666,558.186L689.318,558.186L689.494,563.823L689.523,563.829L691.855,558.186L693.092,558.186L693.631,563.829L693.666,563.835L695.641,558.186L699.343,558.186Z" style="fill-rule:nonzero;" />
                 </g>
@@ -17,17 +17,16 @@
             </svg>
         </a>
         <a class="hamburger">
-            <span class="hamburger-span"></span>
-            <span class="hamburger-span"></span>
-            <span class="hamburger-span"></span>
-            <span class="hamburger-span"></span>
+            <span class="hamburger-span">&nbsp;</span>
+            <span class="hamburger-span">&nbsp;</span>
+            <span class="hamburger-span">&nbsp;</span>
+            <span class="hamburger-span">&nbsp;</span>
         </a>
         <nav class="menuNav">
             <ul>
-                <li><a href="#">Accueil</a></li>
-                <li><a href="/blog">Articles</a></li>
-                <li><a href="/team">Équipe</a></li>
-                <li><a href="#">Contribuer</a></li>
+                <li class="menuAccueil"><a href="/">Accueil</a></li>
+                <li class="menuArticles"><a href="/blog">Articles</a></li>
+                <li class="menuEquipe"><a href="/team">Équipe</a></li>
             </ul>
         </nav>
     </div>
