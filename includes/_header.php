@@ -24,9 +24,9 @@
         </a>
         <nav class="menuNav">
             <ul>
-                <li><a href="/">Accueil</a></li>
-                <li><a href="/blog">Articles</a></li>
-                <li><a href="/team">Équipe</a></li>
+                <li class="menuAccueil"><a href="/">Accueil</a></li>
+                <li class="menuArticles"><a href="/blog">Articles</a></li>
+                <li class="menuEquipe"><a href="/team">Équipe</a></li>
             </ul>
         </nav>
     </div>
