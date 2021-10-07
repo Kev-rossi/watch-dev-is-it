@@ -55,7 +55,7 @@ article img {
     width: 100%;
 }
 
-article span, article h2, article p, article button {
+article span, article h2, article p, article .button {
     margin-left: 2rem;
     margin-right: 2rem;
 }
@@ -82,15 +82,18 @@ article.white p, .blog article p {
     color: #131626;
 }
 
-article button {
+article .button {
+    display: inline-block;
     pointer-events: none;
     padding: .5rem .7rem;
     border: 1px solid black;
     transition: .3s;
     margin-bottom: 2rem;
+    color: black;
+    background-color: white;
 }
 
-article:hover button {
+article:hover .button {
     border: 1px solid white;
     background-color: black;
     color: white;
