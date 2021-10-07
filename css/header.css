@@ -1,6 +1,7 @@
 header{
     background-color: #131626;
     padding: 2rem;
+    height: 20%;
 }
 
 .header-container{
@@ -12,10 +13,41 @@ header{
 
 .menuNav{
     display: none;
+    border-bottom: solid 1px dimgrey;
 }
 
-.menuNav ul, .navFooter{
+.menuNav ul, .navFooter, ul{
     list-style: none;
+
+}
+
+.menuAccueil, .menuArticles{
+    margin-right: 2rem;
+    text-decoration: none ;
+    font-weight: 200;
+    border-right: double 5px darkgray;
+}
+.menuEquipe{
+    padding-left: 15px;
+    background-color: #131626;
+    color: black;
+    border: solid 1px blanchedalmond;
+    border-radius: 45px 10px;
+    margin-right: 1rem;
+}
+.menuEquipe:hover{
+    text-decoration: underline white;
+    font-size: 20px;
+}
+a{
+    font-weight: 300;
+    text-decoration: none;
+    color: white;
+    padding-right: 1rem;
+}
+.socialLink{
+    display: flex;
+    justify-content: flex-end;
 }
 
 .imgLogo{
@@ -97,5 +129,12 @@ header{
     .menuNav ul, .navFooter{
         display: flex;
         justify-content: space-between;
+    }
+    .menuAccueil, .menuArticles{
+        margin-right: 2rem;
+        text-decoration: none ;
+        font-weight: 200;
+        border-right: double 5px darkgray;
+        
     }
 }
