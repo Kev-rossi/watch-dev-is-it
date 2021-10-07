@@ -1,7 +1,6 @@
 header{
     background-color: #131626;
     padding: 2rem;
-    height: 20%;
 }
 
 .header-container{
@@ -13,38 +12,38 @@ header{
 
 .menuNav{
     display: none;
-    border-bottom: solid 1px dimgrey;
 }
 
 .menuNav ul, .navFooter, ul{
     list-style: none;
-
+    padding: 0;
+    width: 100%;
+}
+.menuNav ul li{
+    width: 70%;
+    margin: 0 auto .5rem auto;
+    text-align: center;
+    padding: .5rem;
 }
 
-.menuAccueil, .menuArticles{
-    margin-right: 2rem;
-    text-decoration: none ;
-    font-weight: 200;
-    border-right: double 5px darkgray;
-}
 .menuEquipe{
     padding-left: 15px;
     background-color: #131626;
     color: black;
-    border: solid 1px blanchedalmond;
-    border-radius: 45px 10px;
     margin-right: 1rem;
 }
-.menuEquipe:hover{
-    text-decoration: underline white;
-    font-size: 20px;
-}
-a{
+.menuNav a{
     font-weight: 300;
     text-decoration: none;
     color: white;
-    padding-right: 1rem;
+    padding: .5rem 1rem;
 }
+
+.menuEquipe a{
+    border: solid 1px blanchedalmond;
+    border-radius: 45px;
+}
+
 .socialLink{
     display: flex;
     justify-content: flex-end;
@@ -56,6 +55,7 @@ a{
 
 .hamburger-opened .menuNav{
     display: block;
+    flex-basis: 100%;
 }
 
 .hamburger {
@@ -104,11 +104,20 @@ a{
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
 }
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.menuNav a:hover, footer a:hover{
+    color: yellow;
+}
 
 @media screen and (min-width: 700px) {
     header{
         position: fixed;
         width: 100%;
+        height: auto;
         z-index: 10;
         top: 0;
     }
@@ -126,15 +135,16 @@ a{
     .menuNav{
         display: block;
     }
+    .hamburger-opened .menuNav{
+        flex-basis: auto;
+    }
     .menuNav ul, .navFooter{
         display: flex;
         justify-content: space-between;
     }
     .menuAccueil, .menuArticles{
         margin-right: 2rem;
-        text-decoration: none ;
+        text-decoration: none;
         font-weight: 200;
-        border-right: double 5px darkgray;
-        
     }
 }

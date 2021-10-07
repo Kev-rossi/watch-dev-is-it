@@ -1,22 +1,12 @@
 <footer>
     <div class="footer-container">
         <ul class="navFooter">
-            <li>Accueil</li>
-            <li>Articles
+            <li><a href="/">Articles</a></li>
+            <li><a href="/team">Equipe</a></li>
             <li><span>watch dev is it?</span></li>
-            <li>Équipe</li>
-            <li>Contribuer</li>
+            <li><a href="#" rel="noopener" target="_blank"><img src="/images/twitter.svg" alt="Twitter"></a></li>
+            <li><a href="https://github.com/Kev-rossi/watch-dev-is-it/" rel="noopener" target="_blank"><img src="/images/github.svg" alt="Github"></a></li>
         </ul>
-        <div class="social">
-            <!-- Facebook-->
-            <a href="#"></a>
-            <!-- Instagram-->
-            <a href="#"></a>
-            <!-- Twitter-->
-            <a href="#"></a>
-            <!-- Linkedin-->
-            <a href="#"></a>
-        </div>
     </div>
 </footer>
 <script type="text/javascript" src="/js/menu.js" id="menu-js"></script>
