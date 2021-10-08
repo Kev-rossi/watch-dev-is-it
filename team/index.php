@@ -8,7 +8,7 @@
     <?php include("../includes/_head.php"); ?>
 </head>
 
-<body>
+<body class="team">
     <?php /* Start Header */ ?>
     <?php include("../includes/_header.php"); ?>
     <!-- Start Main Content -->
