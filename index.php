@@ -16,34 +16,37 @@
         </section> 
         <section class="articles">
             <article class="black">
-                <a href="/blog/internet-et-ses-effets-sur-notre-cerveau">
+                <a href="/blog/internet-et-effets/">
                     <span>Sciences</span>
                     <h2>Internet et ses effets sur notre cerveau</h2>
-                    <p>Internet est désormais bien ancré dans nos vies. Il suffit d’observer notre façon de communiquer, d’entretenir nos relations, et d’obtenir de l’information afin de s’en rendre compte. Mais il reste un aspect qui questionne encore les scientifiques : quels sont les effets d’Internet sur le cerveau humain ? Disons que nous pouvons observer des côtés positifs comme négatifs. En effet, l'accès à l’Internet possède de nombreux avantages : l’accès à l’information à tout moment, la communication devient plus simple et plus rapide, …</p>
+                    <p>Internet est désormais bien ancré dans nos vies. Il suffit d’observer notre façon de communiquer, d’entretenir nos relations, et d’obtenir de l’information afin de s’en rendre compte.</p>
+                    <p>Mais il reste un aspect qui questionne encore les scientifiques : quels sont les effets d’Internet sur le cerveau humain&nbsp;? Disons que nous pouvons observer des côtés positifs comme négatifs.</p>
+                    <p>En effet, l'accès à l’Internet possède de nombreux avantages : l’accès à l’information à tout moment, la communication devient plus simple et plus rapide, …</p>
                     <div class="button">Lire l'article</div>
                 </a>
             </article>
             <article class="gray">
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <a href="/blog/bitcoin/">
+                    <span>Crypyomonnaie</span>
+                    <h2>l’Amérique installe des centaines de guichets automatiques de bitcoin supplémentaires.</h2>
+                    <p>L'utilisation des crypto-monnaies se propage de plus en plus rapidement dans le quotidien des Américains.</p>
+                    <p>A la même époque l’année dernière, il y avait environ 6 000 distributeurs automatiques de crypto-monnaies aux États-Unis.</p>
                     <div class="button">Lire l'article</div>
                 </a>
             </article>
             <article class="white">
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <a href="/blog/editeur-de-code/">
+                    <span>Dev</span>
+                    <h2>Un éditeur de code moderne pour votre terminal</h2>
+                    <p>Micro est un petit outil qui sait se rendre indispensable. Il est facile à utiliser et intuitif...</p>
                     <div class="button">Lire l'article</div>
                 </a>
             </article>
             <article class="white">
-                <a href="#">
-                    <span>Nom catégorie</span>
-                    <h2>Titre</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <a href="/blog/police-de-dev">
+                    <span>Dev</span>
+                    <h2>Les meilleurs polices pour les développeurs</h2>
+                    <p>Toutes les polices de caractères ne sont pas forcément adaptées à tous nos usages de nerds.</p>
                     <div class="button">Lire l'article</div>
                 </a>
             </article>

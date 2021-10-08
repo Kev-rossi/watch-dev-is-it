@@ -1,11 +1,11 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Watch Dev Is It?</title>
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <title>Les meilleurs polices pour les développeurs | Watch Dev Is It?</title>
+    <?php include("../../includes/_head.php"); ?>
 </head>
 <body>
     <?php /* Start Header */ ?>
@@ -24,8 +24,8 @@
                 </div>
             </div>
             <div class="article_content">
-                <img src="./images/code-gbcc1365b7_1920.jpg" alt="feuille de code">
-                <p>Toutes les polices de caractères ne sont pas forcément adaptées à tous nos usages de nerds. Parfois notre police ne se rend pas bien dans nos terminaux. </p>
+                <img src="/images/segoe-ui.png" alt="police">
+                <p>Toutes les polices de caractères ne sont pas forcément adaptées à tous nos usages de nerds. Parfois notre police ne se rend pas bien dans nos terminaux.</p>
                 <p>Il existe un projet collaboratif qui s’appelle Nerd Fonts et qui vise à patcher les polices de caractères les plus appréciées des développeurs et autres informaticiens en y ajouter un grand nombre de glyphs (icones) en provenance de projets que vous connaissez tous :</p>
                 <p>- Powerline Extra Symbols
                    - Font Awesome

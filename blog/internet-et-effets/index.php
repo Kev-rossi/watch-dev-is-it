@@ -1,11 +1,11 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Watch Dev Is It?</title>
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <title>Internet et ses effets sur notre cerveau | Watch Dev Is It?</title>
+    <?php include("../../includes/_head.php"); ?>
 </head>
 <body>
     <?php /* Start Header */ ?>
@@ -15,7 +15,7 @@
         <section class="article">
             <div class="article_header">
                 <div class="article_header-title">
-                    <h1>Internet et ses effets sur notre cerveau </h1>
+                    <h1>Internet et ses effets sur notre cerveau</h1>
                     <span class="article-date">01/10/21</span>
                 </div>
                 <div class="article_header-author">
@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="article_content">
-                <img src="./images/student-g95e4ff54c_1920.jpg" alt="Internet et ses effets sur notre cerveau">
+                <img src="/images/student-g95e4ff54c_1920.jpg" alt="Internet et ses effets sur notre cerveau">
                 <p>Internet est désormais bien ancré dans nos vies. Il suffit d’observer notre façon de communiquer, d’entretenir nos relations, et d’obtenir de l’information afin de s’en rendre compte. Mais il reste un aspect qui questionne encore les scientifiques : quels sont les effets d’Internet sur le cerveau humain ?</p>
                 <p>Disons que nous pouvons observer des côtés positifs comme négatifs. 
                    En effet, l'accès à l’Internet possède de nombreux avantages : l’accès à l’information à tout moment, la communication devient plus simple et plus rapide, … 

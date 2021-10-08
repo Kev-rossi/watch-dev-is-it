@@ -1,11 +1,11 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Watch Dev Is It?</title>
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <title>Un éditeur de code moderne pour votre terminal | Watch Dev Is It?</title>
+    <?php include("../../includes/_head.php"); ?>
 </head>
 <body>
     <?php /* Start Header */ ?>
@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="article_content">
-                <img src="./images/code-gbcc1365b7_1920.jpg" alt="Un éditeur de code moerne pour votre terminal">
+                <img src="/images/code-gbcc1365b7_1920.jpg" alt="Un éditeur de code moerne pour votre terminal">
                 <p>A la recherche d’un éditeur de texte ?</p>
                 <p>Micro est un petit outil qui sait se rendre indispensable. Il est facile à utiliser intuitif et sait également tirer partie des capacités des terminaux modernes.</p>
                 <p>Pour l’installer, il y a deux solutions : soit l’installer avec un gestionnaire de paquet soit en téléchargeant les binaire ici : https://github.com/zyedidia/micro/releases?source=korben.info pour Linux, macOS, Windows et même BSD.</p>
